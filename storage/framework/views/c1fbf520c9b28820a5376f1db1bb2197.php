@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\smartsolutions\resources\views/components/footer.blade.php ENDPATH**/ ?>
